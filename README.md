@@ -2,6 +2,7 @@
 
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00D4AA&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Problem+Solver;Innovation+Enthusiast;Building+Tomorrow's+Solutions" alt="Typing Animation" />
+  <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 </div>
 
 <div align="center">
@@ -25,12 +26,12 @@
 
 ```typescript
 const mohammed = {
-    location: "El Oued, Algeria 🇩🇿",
+    location: "Ouargla, Algeria 🇩🇿",
     education: "Computer Science Graduate (2022)",
     passion: ["Problem Solving", "Innovation", "Clean Code"],
     currentFocus: "Full Stack Development & UI/UX Design",
     dream: "Building Algeria's next tech unicorn 🦄",
-    learningStyle: "Continuous self-improvement through YouTube & Programming Advices",
+    learningStyle: "Continuous self-improvement through YouTube & courses",
     motto: "Code with purpose, build with passion"
 };
 ```
