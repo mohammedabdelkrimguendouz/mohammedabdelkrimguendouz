@@ -61,15 +61,20 @@ const mohammed = {
 ### 🗄️ Database & Cloud
 ![SQL Server](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+
 
 ### 🎨 Design & Animation
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Framer](https://img.shields.io/badge/Framer-black?style=for-the-badge&logo=framer&logoColor=blue)
 
 ### 🔧 Tools & Workflow
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-0078d4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)  
+![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)  
+![VS Code](https://img.shields.io/badge/VS%20Code-0078d4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)  
+![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white)  
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)  
+![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black)
+
 
 </div>
 
@@ -143,15 +148,7 @@ const mohammed = {
 - **Highlight**: Advanced filtering by Wilaya/Commune with ratings
 
 </td>
-<td width="50%">
 
-**📊 TD/TP Session Tracker**
-- **Tech Stack**: React • Admin Dashboard
-- **Features**: Academic progress tracking, analytics
-- **Impact**: Enhanced educational management
-- **Highlight**: Real-time progress visualization
-
-</td>
 </tr>
 </table>
 
@@ -178,13 +175,17 @@ const mohammed = {
 
 <div align="center">
 
-| 🎯 Achievement | 📝 Description |
-|:-------------:|:---------------|
-| 🏗️ **System Architect** | Designed and implemented 3 enterprise-level desktop applications |
-| 📱 **Mobile Innovator** | Created full-featured mobile app with advanced location services |
-| 🎨 **UI/UX Specialist** | Crafted animated admin dashboards with modern design principles |
-| 🔐 **Security Expert** | Implemented robust authentication and role-based access control |
-| 📊 **Data Analyst** | Built comprehensive analytics for academic progress tracking |
+### 📜 Achievements & Certifications
+
+| 🎯 Achievement                 | 📝 Description                                                                 |
+|:-----------------------------:|:------------------------------------------------------------------------------|
+| 🖥️ **Desktop Systems Builder** | Developed 3 complete management systems (Driver License, Hotel, Library) using 3-tier architecture |
+| 🌐 **Web Platform Developer** | Built a job platform (React + .NET + SQL Server) with roles, authentication, and protected routes |
+| 📱 **Flutter App Creator**     | Created "دليل الحرفيين الجزائريين" with Supabase backend and geolocation features |
+| 📊 **Education Tracker Author**| Designed a smart TD/TP session tracking system for academic progress and group-level analytics |
+| 🧠 **Lifelong Learner**        | Continuously learning from platforms like YouTube and **Programming Advices** |
+| 🏅 **Certification Holder**    | Earned certificates in full-stack development from Programming Advices |
+
 
 </div>
 
@@ -230,9 +231,6 @@ const futureRoadmap = {
 ---
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="100%" />
-  
   **⭐ Star my repositories if you find them helpful!**
-  
   ![Visitor Count](https://profile-counter.glitch.me/mohammedabdelkrimguendouz/count.svg)
 </div>
