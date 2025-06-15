@@ -1,7 +1,6 @@
 # 👨‍💻 Mohammed Abdelkrim Guendouz
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00D4AA&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Problem+Solver;Innovation+Enthusiast;Building+Tomorrow's+Solutions" alt="Typing Animation" />
   <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 </div>
 
@@ -36,7 +35,7 @@ const mohammed = {
 };
 ```
 
-<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
+
 
 - 🎯 **Mission**: Creating impactful solutions that drive Algeria's digital transformation
 - 💡 **Specialty**: Building scalable full-stack applications with stunning UI/UX
