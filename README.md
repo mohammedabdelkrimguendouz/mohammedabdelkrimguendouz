@@ -56,7 +56,9 @@ const developer = {
 ![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-0078d4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST_API-000000?style=for-the-badge&logo=api&logoColor=white)
-![Windows Services](https://img.shields.io/badge/Windows_Services-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![Windows Services](https://img.shields.io/badge/Windows%20Services-0078D6?style=for-the-badge&logo=microsoft&logoColor=white)
+
+
 
 
 
